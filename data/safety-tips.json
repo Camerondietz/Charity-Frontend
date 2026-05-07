@@ -1,0 +1,39 @@
+{
+  "elderly": {
+    "title": "Protecting Older Adults from Scams",
+    "intro": "Most scams targeting older adults rely on creating urgency and isolating the victim from family. Slowing down is the single most effective defense.",
+    "tips": [
+      "If someone calls demanding immediate action — payment, gift cards, wire transfer, crypto — it is a scam. Hang up.",
+      "No legitimate government agency (IRS, Social Security, Medicare, police) will ever demand payment by phone, gift card, or cryptocurrency.",
+      "Caller ID can be faked. The number on your screen is not proof of who is calling.",
+      "If a 'grandchild' calls in trouble asking for money, hang up and call them directly on the number you already have.",
+      "Never give remote computer access to anyone who calls you. Microsoft, Apple, and your bank will not call you about a virus.",
+      "Talk to one trusted family member before making any unusual financial decision. Real opportunities can wait an hour.",
+      "Report suspected fraud to the FTC at reportfraud.ftc.gov and to your local police."
+    ]
+  },
+  "children": {
+    "title": "Protecting Children from Predators",
+    "intro": "Most harm to children comes from someone the family already knows, online or in person. Open, ongoing conversations are the most powerful safeguard.",
+    "tips": [
+      "Teach children that no adult should ask them to keep secrets from their parents — especially about gifts, photos, or private conversations.",
+      "Use the correct names for body parts. It removes shame and makes disclosure possible.",
+      "Set clear, age-appropriate rules for devices. Phones charge in a common area at night, not in bedrooms.",
+      "Know who your child talks to online. Game chats, DMs, and livestreams are common grooming vectors.",
+      "Watch for sudden secrecy, gifts you did not buy, or new 'older friends.' These are warning signs that warrant a calm conversation.",
+      "Believe a child who tells you something is wrong. The cost of believing and being wrong is small. The cost of disbelieving and being wrong is enormous.",
+      "Save the National Center for Missing & Exploited Children CyberTipline: 1-800-843-5678 or report.cybertip.org."
+    ]
+  },
+  "general": {
+    "title": "Everyday Personal Safety",
+    "intro": "Most personal safety is about awareness and decisions made before anything happens.",
+    "tips": [
+      "Trust early instincts. If a situation feels wrong, leave. You owe no one an explanation.",
+      "Keep one trusted person informed of where you are going and when you expect to return, especially when traveling.",
+      "Use unique, long passwords and a password manager. Enable two-factor authentication on email and financial accounts.",
+      "Verify before you click. Hover over links, check sender addresses, and call known numbers — never the number provided in a suspicious message.",
+      "Carry the basics: ID, a means of contact, a small amount of cash, and a plan for getting home."
+    ]
+  }
+}

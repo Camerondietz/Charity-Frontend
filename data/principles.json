@@ -1,0 +1,62 @@
+{
+  "moral": [
+    {
+      "title": "Truth",
+      "summary": "Speak what is real, even when it is costly. A society that tolerates routine deception cannot govern itself."
+    },
+    {
+      "title": "Justice",
+      "summary": "Render to each what is owed. Treat equals equally and unequals proportionally. Refuse the temptation to bend a rule for a favored party."
+    },
+    {
+      "title": "Courage",
+      "summary": "Do the right thing under pressure. Courage is not the absence of fear; it is action ordered by principle when fear is present."
+    },
+    {
+      "title": "Prudence",
+      "summary": "Choose well among real options. Wisdom in action — neither reckless nor paralyzed, but proportionate to circumstance."
+    },
+    {
+      "title": "Temperance",
+      "summary": "Govern your appetites before they govern you. Self-mastery is the foundation of every other freedom."
+    },
+    {
+      "title": "Charity",
+      "summary": "Will the good of the other. Not sentimentality, but a steady commitment to the dignity of every person you encounter."
+    },
+    {
+      "title": "Faithfulness",
+      "summary": "Keep your word. Promises kept are the unseen architecture of every functioning community."
+    },
+    {
+      "title": "Humility",
+      "summary": "Know what you do not know. Most catastrophes in history were caused by people certain they were right."
+    }
+  ],
+  "logic": [
+    {
+      "title": "Identity",
+      "summary": "A thing is what it is. Words must mean something stable, or argument is impossible."
+    },
+    {
+      "title": "Non-Contradiction",
+      "summary": "A claim and its opposite cannot both be true in the same sense at the same time."
+    },
+    {
+      "title": "Sufficient Reason",
+      "summary": "Every claim should rest on evidence or argument proportionate to its weight."
+    },
+    {
+      "title": "Distinguish Premises from Conclusions",
+      "summary": "Most disagreements are not about conclusions — they are about hidden assumptions. Surface them."
+    },
+    {
+      "title": "Beware of Common Fallacies",
+      "summary": "Ad hominem, straw man, appeal to authority, false dilemma, slippery slope. Learn to name them so you can answer them."
+    },
+    {
+      "title": "Steelman Before You Critique",
+      "summary": "State the strongest version of a view before you disagree with it. Anything less is sport, not thought."
+    }
+  ]
+}

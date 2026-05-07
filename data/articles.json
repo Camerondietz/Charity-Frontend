@@ -1,0 +1,43 @@
+{
+  "articles": [
+    {
+      "id": "welcome",
+      "title": "A Foundation for Renewal",
+      "slug": "a-foundation-for-renewal",
+      "date": "2026-01-15",
+      "category": "Mission",
+      "summary": "Why this work matters now, and what we hope to build together.",
+      "body": [
+        "We live in a remarkable inheritance. The freedoms we exercise, the institutions we rely on, and the moral vocabulary we still use to argue with each other were not invented yesterday. They were earned, often at great cost, by people who thought carefully about what makes a society worth living in.",
+        "The Civitas Foundation exists to keep that inheritance accessible. We are not partisan. We are not nostalgic. We believe the best ideas from Rome, from Britain, and especially from the American founding belong to anyone willing to study them honestly.",
+        "Our work is education first. We translate civic and moral principles into clear, modern language so that ordinary citizens, parents, teachers, and students can think well about hard questions and act with confidence in their own communities."
+      ]
+    },
+    {
+      "id": "rule-of-law",
+      "title": "Why the Rule of Law Comes First",
+      "slug": "why-the-rule-of-law-comes-first",
+      "date": "2026-02-02",
+      "category": "Principles",
+      "summary": "Before rights, before policy, there is a prior question: are the rules the same for everyone?",
+      "body": [
+        "Every durable society in history has rested on a single, unglamorous idea: the rules apply to everyone, including those who make them. Without that, every other right is a privilege that can be revoked.",
+        "The American framers did not invent this idea. They inherited it from English common law, from Roman jurisprudence, and ultimately from a moral tradition that held human beings equal in dignity. What they did was build institutions designed to make the rule of law difficult to dismantle.",
+        "When we evaluate any policy, our first question is not whether we like the outcome. It is whether the process applies equally and predictably. A society that abandons that test has chosen power over justice, and history has been clear about how that ends."
+      ]
+    },
+    {
+      "id": "civic-virtue",
+      "title": "Civic Virtue Is a Habit, Not a Slogan",
+      "slug": "civic-virtue-is-a-habit",
+      "date": "2026-03-10",
+      "category": "Living Well",
+      "summary": "Free societies depend on the daily character of ordinary citizens.",
+      "body": [
+        "John Adams wrote that the Constitution was made only for a moral and religious people, and was wholly inadequate to the government of any other. He was not making a sectarian point. He was making an engineering point: the system assumes its citizens have already done a certain amount of work on themselves.",
+        "Civic virtue is not a feeling. It is a set of habits — telling the truth when it costs you, keeping your word, showing up for your neighbors, raising children who can do the same. None of it is glamorous. All of it is load-bearing.",
+        "Restoring civic virtue is not the work of a campaign or a hashtag. It is the work of households, schools, congregations, and small associations doing ordinary things well, year after year. That is the level at which civilizations are actually built."
+      ]
+    }
+  ]
+}

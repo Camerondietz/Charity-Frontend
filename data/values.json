@@ -1,0 +1,44 @@
+{
+  "values": [
+    {
+      "title": "Liberty Under Law",
+      "source": "British common law, American Founding",
+      "summary": "Freedom is not the absence of rules. It is the presence of just rules, applied equally, that protect each person from arbitrary power."
+    },
+    {
+      "title": "Civic Duty",
+      "source": "Roman Republic",
+      "summary": "Citizenship is not a status. It is a set of obligations — to your neighbors, your community, and the institutions that make a free life possible."
+    },
+    {
+      "title": "Equal Dignity",
+      "source": "Judeo-Christian and classical traditions",
+      "summary": "Every human being possesses an inherent worth that does not depend on usefulness, status, or agreement. Rights flow from this."
+    },
+    {
+      "title": "Limited Government",
+      "source": "American Founding",
+      "summary": "Power concentrated is power abused. Separation of powers, federalism, and enumerated rights exist to keep authority answerable to the people."
+    },
+    {
+      "title": "Rule of Law",
+      "source": "Common to every durable free society",
+      "summary": "The same law applies to the powerful and the powerless. Without that, every other right is conditional."
+    },
+    {
+      "title": "Personal Responsibility",
+      "source": "Classical virtue tradition",
+      "summary": "A free society is built by free people who take responsibility for their families, their work, and their communities — and expect the same of others."
+    },
+    {
+      "title": "Pursuit of Truth",
+      "source": "Classical philosophy, scientific tradition",
+      "summary": "Honest inquiry, open argument, and the willingness to be corrected are the foundation of both wisdom and self-government."
+    },
+    {
+      "title": "Service and Sacrifice",
+      "source": "Every civilization worth remembering",
+      "summary": "What we inherit was paid for by people we will never meet. We owe the next generation the same."
+    }
+  ]
+}
