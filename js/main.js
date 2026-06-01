@@ -1,4 +1,4 @@
-/* Civitas Foundation — main.js
+/* American Society Foundation — main.js
    - mobile nav toggle
    - reveal-on-scroll
    - active nav state

@@ -1,4 +1,4 @@
-/* Civitas Foundation — data-loader.js
+/* American Society Foundation — data-loader.js
    Loads JSON content and renders into elements with [data-source].
    Supports:
      <ul data-source="data/values.json" data-template="value"></ul>

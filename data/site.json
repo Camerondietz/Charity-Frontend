@@ -3,10 +3,10 @@
   "shortName": "ASF",
   "tagline": "Building a Better Society",
   "description": "A nonpartisan charity dedicated to civic education, moral clarity, and the renewal of the principles that built free societies.",
-  "url": "https://camerondietz.github.io/Charity-Frontend/",
-  "emergencyUrl": "https://camerondietz.github.io/OSINT-DASHBOARD/",
+  "url": "https://better-society.org",
+  "emergencyUrl": "https://emergency.better-society.org",
   "contact": {
-    "email": "contact@example.org",
+    "email": "",
     "address": ""
   },
   "social": {

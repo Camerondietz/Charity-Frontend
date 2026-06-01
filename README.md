@@ -290,9 +290,9 @@ charity-site/
 
 
 
-Before you launch, search-and-replace `https://example.org` across the site
+Before you launch, search-and-replace `https://better-society.org` across the site
 
-with your real domain. The relevant files are:
+with your real production domain if it changes. The relevant files are:
 
 
 
@@ -314,9 +314,9 @@ with your real domain. The relevant files are:
 
 
 
-The Civitas Foundation name and copy in this scaffold are placeholder — replace
+The American Society Foundation name and copy in this scaffold can be replaced
 
-them with your charity's real branding before publishing. The structural code
+with your final branding at any time. The structural code
 
 (HTML/CSS/JS) is yours to do whatever you want with.
 
